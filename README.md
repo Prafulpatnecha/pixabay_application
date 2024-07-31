@@ -21,7 +21,7 @@ samples, guidance on mobile development, and a full API reference.
 <h3 align="center"><i>9.2 Call Pixabay API & Represent in UI.</i></h3>
 <h1></h1>
 <div align="center">
-<img src="https://github.com/Prafulpatnecha/pixabay_application/blob/master/image.png" height=450px hspace=20>
+<img src="https://github.com/Prafulpatnecha/pixabay_application/blob/master/image0.png" height=450px hspace=20>
 <img src="https://github.com/Prafulpatnecha/pixabay_application/blob/master/image1.png" height=450px hspace=20>
 <img src="https://github.com/Prafulpatnecha/pixabay_application/blob/master/image2.png" height=450px hspace=20>
 <img src="https://github.com/Prafulpatnecha/pixabay_application/blob/master/image3.png" height=450px hspace=20>
