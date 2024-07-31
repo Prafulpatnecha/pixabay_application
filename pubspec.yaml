@@ -37,6 +37,12 @@ dependencies:
   cupertino_icons: ^1.0.6
   http: ^1.2.2
   provider: ^6.1.2
+  async_wallpaper: ^2.0.3
+  dotted_line: ^3.2.2
+  image_picker: ^1.1.2
+  share_extend: ^2.0.0
+  image_gallery_saver: ^2.0.3
+  dio: ^5.5.0+1
 
 dev_dependencies:
   flutter_test:

@@ -8,7 +8,7 @@ import 'controller/controlling.dart';
 void main()
 {
   runApp(MultiProvider(providers: [
-    ChangeNotifierProvider(create: (context) => HomeProvider(),)
+    ChangeNotifierProvider(create: (context) => HomeProvider(),),
   ],
   child: const MyApp()));
 }

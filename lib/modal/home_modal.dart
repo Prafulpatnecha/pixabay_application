@@ -11,12 +11,12 @@ class ApiModal
   }
 }
 class Hits{
-  late String largeImageURL;
-  late int id,likes;
+  late String largeImageURL,userImageURL,user;
+  late int id,likes,views;
 
-  Hits({required this.largeImageURL,required this.id,required this.likes});
+  Hits({required this.largeImageURL,required this.id,required this.likes,required this.views,required this.user,required this.userImageURL});
   factory Hits.fromJson(Map m1)
   {
-    return Hits(largeImageURL: m1['largeImageURL'], id: m1['id'], likes: m1['likes']);
+    return Hits(largeImageURL: m1['largeImageURL'], id: m1['id'], likes: m1['likes'], views: m1['views'],user: m1['user'],userImageURL: m1['userImageURL']);
   }
 }
